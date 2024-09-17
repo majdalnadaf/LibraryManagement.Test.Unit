@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UauNdPC749KSTAEYvrFJG2OYIt8i01vqvtBB7GTD/f3DCVu3QIQCkB5qJGvnDaqN0U0JN421ZSvHF2fjEjMYRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\new laptop\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\new laptop\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\new laptop\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

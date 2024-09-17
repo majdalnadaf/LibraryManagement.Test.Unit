@@ -1,0 +1,2477 @@
+{
+  "LibraryManagement.Api.dll": {
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "12": 0,
+            "16": 0,
+            "18": 0,
+            "19": 0,
+            "22": 0,
+            "25": 0,
+            "28": 0,
+            "30": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "41": 0,
+            "43": 0,
+            "45": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 155,
+              "EndOffset": 157,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 155,
+              "EndOffset": 175,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Controllers\\BookController.cs": {
+      "LibraryManagement.Api.Controllers.BookController": {
+        "System.Void LibraryManagement.Api.Controllers.BookController::.ctor(LibraryManagement.Application.Services.IBookManagement,FluentValidation.IValidator`1<LibraryManagement.Api.Contract.Books.CreateBookRequest>,FluentValidation.IValidator`1<LibraryManagement.Api.Contract.Books.UpdateBookRequest>)": {
+          "Lines": {
+            "22": 10,
+            "23": 10,
+            "24": 10,
+            "25": 10,
+            "26": 10,
+            "27": 10,
+            "28": 10
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Api.Controllers.BookController/<CreateBookAsync>d__5": {
+        "System.Void LibraryManagement.Api.Controllers.BookController/<CreateBookAsync>d__5::MoveNext()": {
+          "Lines": {
+            "54": 3,
+            "55": 3,
+            "56": 3,
+            "57": 1,
+            "58": 1,
+            "61": 2,
+            "62": 2,
+            "63": 2,
+            "64": 2,
+            "65": 2,
+            "66": 2,
+            "67": 2,
+            "68": 2,
+            "69": 2,
+            "70": 2,
+            "73": 2,
+            "74": 2,
+            "75": 1,
+            "76": 1,
+            "80": 1,
+            "82": 1,
+            "84": 3
+          },
+          "Branches": [
+            {
+              "Line": 56,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 56,
+              "Offset": 62,
+              "EndOffset": 88,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 74,
+              "Offset": 351,
+              "EndOffset": 353,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 74,
+              "Offset": 351,
+              "EndOffset": 373,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.BookController/<DeleteBookAsync>d__7": {
+        "System.Void LibraryManagement.Api.Controllers.BookController/<DeleteBookAsync>d__7::MoveNext()": {
+          "Lines": {
+            "121": 2,
+            "123": 2,
+            "124": 2,
+            "125": 1,
+            "126": 1,
+            "129": 1,
+            "131": 2
+          },
+          "Branches": [
+            {
+              "Line": 124,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 124,
+              "Offset": 157,
+              "EndOffset": 192,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.BookController/<GetAllBookByNameAsync>d__4": {
+        "System.Void LibraryManagement.Api.Controllers.BookController/<GetAllBookByNameAsync>d__4::MoveNext()": {
+          "Lines": {
+            "33": 2,
+            "35": 2,
+            "38": 2,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "45": 1,
+            "46": 1,
+            "47": 2
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 38,
+              "Offset": 164,
+              "EndOffset": 209,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.BookController/<UpdateBookAsync>d__6": {
+        "System.Void LibraryManagement.Api.Controllers.BookController/<UpdateBookAsync>d__6::MoveNext()": {
+          "Lines": {
+            "89": 3,
+            "90": 3,
+            "91": 3,
+            "92": 2,
+            "93": 2,
+            "96": 1,
+            "97": 1,
+            "98": 1,
+            "99": 1,
+            "100": 1,
+            "101": 1,
+            "102": 1,
+            "103": 1,
+            "104": 1,
+            "106": 1,
+            "107": 1,
+            "108": 0,
+            "109": 0,
+            "112": 1,
+            "114": 1,
+            "115": 3
+          },
+          "Branches": [
+            {
+              "Line": 91,
+              "Offset": 62,
+              "EndOffset": 64,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 91,
+              "Offset": 62,
+              "EndOffset": 88,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 107,
+              "Offset": 350,
+              "EndOffset": 352,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 107,
+              "Offset": 350,
+              "EndOffset": 385,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Controllers\\BorrowingController.cs": {
+      "LibraryManagement.Api.Controllers.BorrowingController": {
+        "System.Void LibraryManagement.Api.Controllers.BorrowingController::.ctor(LibraryManagement.Application.Services.IBorrowingManagement)": {
+          "Lines": {
+            "15": 8,
+            "16": 8,
+            "17": 8,
+            "18": 8
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Api.Controllers.BorrowingController/<BorrowBookAsync>d__2": {
+        "System.Void LibraryManagement.Api.Controllers.BorrowingController/<BorrowBookAsync>d__2::MoveNext()": {
+          "Lines": {
+            "24": 2,
+            "28": 2,
+            "29": 2,
+            "30": 1,
+            "31": 1,
+            "34": 1,
+            "35": 1,
+            "37": 2
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 190,
+              "EndOffset": 192,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 29,
+              "Offset": 190,
+              "EndOffset": 218,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.BorrowingController/<CheckBookavailabilityAsync>d__5": {
+        "System.Void LibraryManagement.Api.Controllers.BorrowingController/<CheckBookavailabilityAsync>d__5::MoveNext()": {
+          "Lines": {
+            "74": 2,
+            "75": 2,
+            "76": 2,
+            "77": 1,
+            "78": 1,
+            "82": 1,
+            "84": 2
+          },
+          "Branches": [
+            {
+              "Line": 76,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 76,
+              "Offset": 157,
+              "EndOffset": 179,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.BorrowingController/<ReturnBookAsync>d__3": {
+        "System.Void LibraryManagement.Api.Controllers.BorrowingController/<ReturnBookAsync>d__3::MoveNext()": {
+          "Lines": {
+            "42": 2,
+            "46": 2,
+            "47": 2,
+            "48": 1,
+            "49": 1,
+            "53": 1,
+            "55": 2
+          },
+          "Branches": [
+            {
+              "Line": 47,
+              "Offset": 184,
+              "EndOffset": 186,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 47,
+              "Offset": 184,
+              "EndOffset": 206,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.BorrowingController/<ViewBorrowingHistoryByMemberId>d__4": {
+        "System.Void LibraryManagement.Api.Controllers.BorrowingController/<ViewBorrowingHistoryByMemberId>d__4::MoveNext()": {
+          "Lines": {
+            "60": 2,
+            "61": 2,
+            "62": 2,
+            "63": 1,
+            "64": 1,
+            "67": 1,
+            "68": 1,
+            "69": 2
+          },
+          "Branches": [
+            {
+              "Line": 62,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 62,
+              "Offset": 157,
+              "EndOffset": 175,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 62,
+              "Offset": 180,
+              "EndOffset": 182,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 62,
+              "Offset": 180,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Controllers\\MemberController.cs": {
+      "LibraryManagement.Api.Controllers.MemberController": {
+        "System.Void LibraryManagement.Api.Controllers.MemberController::.ctor(LibraryManagement.Application.Services.IMemberManagement)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Api.Controllers.MemberController/<CreateMemberAsync>d__3": {
+        "System.Void LibraryManagement.Api.Controllers.MemberController/<CreateMemberAsync>d__3::MoveNext()": {
+          "Lines": {
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "61": 0,
+            "63": 0,
+            "66": 0
+          },
+          "Branches": [
+            {
+              "Line": 43,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 34,
+              "EndOffset": 54,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 57,
+              "EndOffset": 82,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 301,
+              "EndOffset": 303,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 56,
+              "Offset": 301,
+              "EndOffset": 336,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.MemberController/<DeleteMemberAsync>d__5": {
+        "System.Void LibraryManagement.Api.Controllers.MemberController/<DeleteMemberAsync>d__5::MoveNext()": {
+          "Lines": {
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "106": 0,
+            "109": 0
+          },
+          "Branches": [
+            {
+              "Line": 101,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 101,
+              "Offset": 157,
+              "EndOffset": 188,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.MemberController/<GetAllMemberByNameAsync>d__2": {
+        "System.Void LibraryManagement.Api.Controllers.MemberController/<GetAllMemberByNameAsync>d__2::MoveNext()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "34": 0,
+            "36": 0
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 157,
+              "EndOffset": 159,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 157,
+              "EndOffset": 175,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 180,
+              "EndOffset": 182,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 180,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Api.Controllers.MemberController/<UpdateMemberAsync>d__4": {
+        "System.Void LibraryManagement.Api.Controllers.MemberController/<UpdateMemberAsync>d__4::MoveNext()": {
+          "Lines": {
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "90": 0,
+            "92": 0,
+            "94": 0
+          },
+          "Branches": [
+            {
+              "Line": 72,
+              "Offset": 34,
+              "EndOffset": 36,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 34,
+              "EndOffset": 54,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 72,
+              "Offset": 57,
+              "EndOffset": 82,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 290,
+              "EndOffset": 292,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 85,
+              "Offset": 290,
+              "EndOffset": 325,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\ValidationRules\\CreateBookRequestValidator.cs": {
+      "LibraryManagement.Api.Contract.ValidationRules.CreateBookRequestValidator": {
+        "System.Void LibraryManagement.Api.Contract.ValidationRules.CreateBookRequestValidator::.ctor()": {
+          "Lines": {
+            "8": 10,
+            "9": 10,
+            "10": 10,
+            "11": 10,
+            "12": 10,
+            "13": 10,
+            "16": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\ValidationRules\\UpdateBookRequestValidator.cs": {
+      "LibraryManagement.Api.Contract.ValidationRules.UpdateBookRequestValidator": {
+        "System.Void LibraryManagement.Api.Contract.ValidationRules.UpdateBookRequestValidator::.ctor()": {
+          "Lines": {
+            "8": 10,
+            "9": 10,
+            "10": 10,
+            "11": 10,
+            "12": 10,
+            "13": 10,
+            "14": 10,
+            "17": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Members\\CreateMemberRequest.cs": {
+      "LibraryManagement.Api.Contract.Members.CreateMemberRequest": {
+        "System.String LibraryManagement.Api.Contract.Members.CreateMemberRequest::get_fullName()": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Members\\MemberResponse.cs": {
+      "LibraryManagement.Api.Contract.Members.MemberResponse`1": {
+        "T LibraryManagement.Api.Contract.Members.MemberResponse`1::get_data()": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Members\\UpdateMemberRequest.cs": {
+      "LibraryManagement.Api.Contract.Members.UpdateMemberRequest": {
+        "System.Guid LibraryManagement.Api.Contract.Members.UpdateMemberRequest::get_id()": {
+          "Lines": {
+            "3": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Borrowing\\BorrowBookRequest.cs": {
+      "LibraryManagement.Api.Contract.Borrowing.BorrowBookRequest": {
+        "System.Guid LibraryManagement.Api.Contract.Borrowing.BorrowBookRequest::get_memberId()": {
+          "Lines": {
+            "3": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Borrowing\\BorrowingResponse.cs": {
+      "LibraryManagement.Api.Contract.Borrowing.BorrowingResponse`1": {
+        "T LibraryManagement.Api.Contract.Borrowing.BorrowingResponse`1::get_data()": {
+          "Lines": {
+            "3": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Borrowing\\ReturnBookRequest.cs": {
+      "LibraryManagement.Api.Contract.Borrowing.ReturnBookRequest": {
+        "System.Guid LibraryManagement.Api.Contract.Borrowing.ReturnBookRequest::get_memberId()": {
+          "Lines": {
+            "3": 8
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Books\\BookResponse.cs": {
+      "LibraryManagement.Api.Contract.Books.BookResponse`1": {
+        "T LibraryManagement.Api.Contract.Books.BookResponse`1::get_data()": {
+          "Lines": {
+            "7": 24
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Books\\CreateBookRequest.cs": {
+      "LibraryManagement.Api.Contract.Books.CreateBookRequest": {
+        "System.String LibraryManagement.Api.Contract.Books.CreateBookRequest::get_title()": {
+          "Lines": {
+            "3": 35
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\Contract\\Books\\UpdateBookRequest.cs": {
+      "LibraryManagement.Api.Contract.Books.UpdateBookRequest": {
+        "System.Guid LibraryManagement.Api.Contract.Books.UpdateBookRequest::get_id()": {
+          "Lines": {
+            "3": 42
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Api\\AutoMapper\\MappingProfile.cs": {
+      "LibraryManagement.Api.AutoMapper.MappingProfile": {
+        "System.Void LibraryManagement.Api.AutoMapper.MappingProfile::.ctor()": {
+          "Lines": {
+            "10": 10,
+            "11": 10,
+            "12": 10,
+            "13": 10,
+            "15": 10,
+            "16": 10
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "LibraryManagement.Application.dll": {
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\DependencyInjection.cs": {
+      "LibraryManagement.Application.DependencyInjection": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection LibraryManagement.Application.DependencyInjection::AddApplication(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\LibraryManagement.cs": {
+      "LibraryManagement.Application.LibraryManagement": {
+        "System.Double LibraryManagement.Application.LibraryManagement::CalculateLateFee(System.Int32)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "28": 0,
+            "29": 0,
+            "32": 0
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 7,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\LoggerAdapter.cs": {
+      "LibraryManagement.Application.LoggerAdapter`1": {
+        "System.Void LibraryManagement.Application.LoggerAdapter`1::LogError(System.Exception,System.String,System.Object[])": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void LibraryManagement.Application.LoggerAdapter`1::LogInformation(System.String,System.Object[])": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Void LibraryManagement.Application.LoggerAdapter`1::.ctor(Microsoft.Extensions.Logging.ILogger`1<LibraryManagement.Application.LoggerAdapter`1<TType>>)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\ValidationRules\\BookValidator.cs": {
+      "LibraryManagement.Application.ValidationRules.BookValidator": {
+        "System.Void LibraryManagement.Application.ValidationRules.BookValidator::.ctor()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\ValidationRules\\BorrowBookValidator.cs": {
+      "LibraryManagement.Application.ValidationRules.BorrowBookValidator": {
+        "System.Void LibraryManagement.Application.ValidationRules.BorrowBookValidator::.ctor()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\ValidationRules\\MemberValidtor.cs": {
+      "LibraryManagement.Application.ValidationRules.MemberValidtor": {
+        "System.Void LibraryManagement.Application.ValidationRules.MemberValidtor::.ctor()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\Services\\BookManagement.cs": {
+      "LibraryManagement.Application.Services.BookManagement": {
+        "System.Void LibraryManagement.Application.Services.BookManagement::.ctor(LibraryManagement.Application.ILoggerAdapter`1<LibraryManagement.Application.Services.BookManagement>,LibraryManagement.Application.InfrastructureServices.IBookRepositroy,FluentValidation.IValidator`1<LibraryManagement.Domain.Domains.Book>)": {
+          "Lines": {
+            "23": 0,
+            "27": 0,
+            "28": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass11_0": {
+        "System.Boolean LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass11_0::<CheckDuplicateISBN>b__0(LibraryManagement.Domain.Domains.Book)": {
+          "Lines": {
+            "230": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass7_0": {
+        "System.Boolean LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass7_0::<SearchForBooByISBNCodekAsync>b__0(LibraryManagement.Domain.Domains.Book)": {
+          "Lines": {
+            "115": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass7_0::<SearchForBooByISBNCodekAsync>b__1(LibraryManagement.Domain.Domains.Book)": {
+          "Lines": {
+            "124": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass8_0": {
+        "System.Boolean LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass8_0::<SearchForBookByAuthorNameAsync>b__0(LibraryManagement.Domain.Domains.Book)": {
+          "Lines": {
+            "145": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass9_0": {
+        "System.Boolean LibraryManagement.Application.Services.BookManagement/<>c__DisplayClass9_0::<SearchForBookByBookNameAsync>b__0(LibraryManagement.Domain.Domains.Book)": {
+          "Lines": {
+            "175": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<CheckDuplicateISBN>d__11": {
+        "System.Void LibraryManagement.Application.Services.BookManagement/<CheckDuplicateISBN>d__11::MoveNext()": {
+          "Lines": {
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "231": 0,
+            "232": 0,
+            "234": 0,
+            "236": 0
+          },
+          "Branches": [
+            {
+              "Line": 227,
+              "Offset": 186,
+              "EndOffset": 188,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 227,
+              "Offset": 186,
+              "EndOffset": 192,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 231,
+              "Offset": 244,
+              "EndOffset": 246,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 231,
+              "Offset": 244,
+              "EndOffset": 250,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<CreateBookAsync>d__5": {
+        "System.Void LibraryManagement.Application.Services.BookManagement/<CreateBookAsync>d__5::MoveNext()": {
+          "Lines": {
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "53": 0,
+            "54": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "64": 0,
+            "66": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "74": 0
+          },
+          "Branches": [
+            {
+              "Line": 42,
+              "Offset": 50,
+              "EndOffset": 52,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 50,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 114,
+              "EndOffset": 116,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 114,
+              "EndOffset": 134,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 268,
+              "EndOffset": 270,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 268,
+              "EndOffset": 287,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 450,
+              "EndOffset": 452,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 58,
+              "Offset": 450,
+              "EndOffset": 467,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<DeleteBookAsync>d__6": {
+        "System.Void LibraryManagement.Application.Services.BookManagement/<DeleteBookAsync>d__6::MoveNext()": {
+          "Lines": {
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "93": 0,
+            "94": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "102": 0
+          },
+          "Branches": [
+            {
+              "Line": 80,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 51,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 204,
+              "EndOffset": 206,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 204,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<SearchForBooByISBNCodekAsync>d__7": {
+        "System.Void LibraryManagement.Application.Services.BookManagement/<SearchForBooByISBNCodekAsync>d__7::MoveNext()": {
+          "Lines": {
+            "105": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "114": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "123": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "132": 0
+          },
+          "Branches": [
+            {
+              "Line": 108,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 108,
+              "Offset": 70,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 118,
+              "Offset": 260,
+              "EndOffset": 262,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 118,
+              "Offset": 260,
+              "EndOffset": 278,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 118,
+              "Offset": 283,
+              "EndOffset": 285,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 118,
+              "Offset": 283,
+              "EndOffset": 297,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<SearchForBookByAuthorNameAsync>d__8": {
+        "System.Void LibraryManagement.Application.Services.BookManagement/<SearchForBookByAuthorNameAsync>d__8::MoveNext()": {
+          "Lines": {
+            "135": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "144": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "153": 0,
+            "154": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "162": 0
+          },
+          "Branches": [
+            {
+              "Line": 138,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 138,
+              "Offset": 70,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 148,
+              "Offset": 260,
+              "EndOffset": 262,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 148,
+              "Offset": 260,
+              "EndOffset": 278,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 148,
+              "Offset": 283,
+              "EndOffset": 285,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 148,
+              "Offset": 283,
+              "EndOffset": 294,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<SearchForBookByBookNameAsync>d__9": {
+        "System.Void LibraryManagement.Application.Services.BookManagement/<SearchForBookByBookNameAsync>d__9::MoveNext()": {
+          "Lines": {
+            "165": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "174": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "181": 0,
+            "182": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "190": 0
+          },
+          "Branches": [
+            {
+              "Line": 168,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 168,
+              "Offset": 70,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 176,
+              "Offset": 260,
+              "EndOffset": 262,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 176,
+              "Offset": 260,
+              "EndOffset": 278,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 176,
+              "Offset": 283,
+              "EndOffset": 285,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 176,
+              "Offset": 283,
+              "EndOffset": 294,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BookManagement/<UpdateBookAsync>d__10": {
+        "System.Void LibraryManagement.Application.Services.BookManagement/<UpdateBookAsync>d__10::MoveNext()": {
+          "Lines": {
+            "193": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "214": 0,
+            "215": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "223": 0
+          },
+          "Branches": [
+            {
+              "Line": 196,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 196,
+              "Offset": 38,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 202,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 202,
+              "Offset": 92,
+              "EndOffset": 102,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 208,
+              "Offset": 265,
+              "EndOffset": 267,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 208,
+              "Offset": 265,
+              "EndOffset": 272,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\Services\\BorrowingManagement.cs": {
+      "LibraryManagement.Application.Services.BorrowingManagement": {
+        "System.Void LibraryManagement.Application.Services.BorrowingManagement::.ctor(LibraryManagement.Application.InfrastructureServices.IBorrowingRepository,LibraryManagement.Application.ILoggerAdapter`1<LibraryManagement.Application.Services.BorrowingManagement>,LibraryManagement.Application.InfrastructureServices.IBookRepositroy,LibraryManagement.Application.InfrastructureServices.IMemberRepository)": {
+          "Lines": {
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.BorrowingManagement/<BorrowBook>d__6": {
+        "System.Void LibraryManagement.Application.Services.BorrowingManagement/<BorrowBook>d__6::MoveNext()": {
+          "Lines": {
+            "40": 0,
+            "42": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "80": 0,
+            "81": 0,
+            "86": 0,
+            "87": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 80,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 80,
+              "EndOffset": 105,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 232,
+              "EndOffset": 234,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 232,
+              "EndOffset": 257,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 386,
+              "EndOffset": 388,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 386,
+              "EndOffset": 411,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 665,
+              "EndOffset": 667,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 74,
+              "Offset": 665,
+              "EndOffset": 690,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BorrowingManagement/<CheckBookAvailability>d__7": {
+        "System.Void LibraryManagement.Application.Services.BorrowingManagement/<CheckBookAvailability>d__7::MoveNext()": {
+          "Lines": {
+            "95": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "103": 0,
+            "105": 0,
+            "106": 0,
+            "108": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "116": 0
+          },
+          "Branches": [
+            {
+              "Line": 98,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 51,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 105,
+              "Offset": 204,
+              "EndOffset": 206,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 105,
+              "Offset": 204,
+              "EndOffset": 222,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 105,
+              "Offset": 227,
+              "EndOffset": 229,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 105,
+              "Offset": 227,
+              "EndOffset": 233,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BorrowingManagement/<CheckMemberIsValid>d__8": {
+        "System.Void LibraryManagement.Application.Services.BorrowingManagement/<CheckMemberIsValid>d__8::MoveNext()": {
+          "Lines": {
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "125": 0,
+            "127": 0
+          },
+          "Branches": [
+            {
+              "Line": 122,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 122,
+              "Offset": 164,
+              "EndOffset": 170,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BorrowingManagement/<ReturnBook>d__9": {
+        "System.Void LibraryManagement.Application.Services.BorrowingManagement/<ReturnBook>d__9::MoveNext()": {
+          "Lines": {
+            "130": 0,
+            "132": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "157": 0,
+            "161": 0,
+            "165": 0,
+            "166": 0,
+            "171": 0,
+            "172": 0,
+            "174": 0,
+            "175": 0,
+            "177": 0
+          },
+          "Branches": [
+            {
+              "Line": 134,
+              "Offset": 86,
+              "EndOffset": 88,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 134,
+              "Offset": 86,
+              "EndOffset": 96,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 223,
+              "EndOffset": 225,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 223,
+              "EndOffset": 233,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 144,
+              "Offset": 359,
+              "EndOffset": 361,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 144,
+              "Offset": 359,
+              "EndOffset": 369,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 151,
+              "Offset": 515,
+              "EndOffset": 517,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 151,
+              "Offset": 515,
+              "EndOffset": 530,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 151,
+              "Offset": 535,
+              "EndOffset": 537,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 151,
+              "Offset": 535,
+              "EndOffset": 545,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.BorrowingManagement/<ViewBorrowingHistoryForAMember>d__10": {
+        "System.Void LibraryManagement.Application.Services.BorrowingManagement/<ViewBorrowingHistoryForAMember>d__10::MoveNext()": {
+          "Lines": {
+            "180": 0,
+            "182": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "199": 0,
+            "200": 0,
+            "205": 0,
+            "206": 0,
+            "208": 0,
+            "209": 0,
+            "211": 0
+          },
+          "Branches": [
+            {
+              "Line": 185,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 185,
+              "Offset": 51,
+              "EndOffset": 61,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 192,
+              "Offset": 211,
+              "EndOffset": 213,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 192,
+              "Offset": 211,
+              "EndOffset": 222,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\Services\\MemberManagement.cs": {
+      "LibraryManagement.Application.Services.MemberManagement": {
+        "System.Void LibraryManagement.Application.Services.MemberManagement::.ctor(LibraryManagement.Application.ILoggerAdapter`1<LibraryManagement.Application.Services.MemberManagement>,LibraryManagement.Application.InfrastructureServices.IMemberRepository,FluentValidation.IValidator`1<LibraryManagement.Domain.Domains.Member>)": {
+          "Lines": {
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<>c__DisplayClass10_0": {
+        "System.Boolean LibraryManagement.Application.Services.MemberManagement/<>c__DisplayClass10_0::<SearchForMemberByName>b__0(LibraryManagement.Domain.Domains.Member)": {
+          "Lines": {
+            "156": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<>c__DisplayClass6_0": {
+        "System.Boolean LibraryManagement.Application.Services.MemberManagement/<>c__DisplayClass6_0::<CheckDuplicatedEmail>b__0(LibraryManagement.Domain.Domains.Member)": {
+          "Lines": {
+            "46": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<CheckDuplicatedEmail>d__6": {
+        "System.Void LibraryManagement.Application.Services.MemberManagement/<CheckDuplicatedEmail>d__6::MoveNext()": {
+          "Lines": {
+            "44": 0,
+            "45": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0
+          },
+          "Branches": [
+            {
+              "Line": 48,
+              "Offset": 218,
+              "EndOffset": 220,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 218,
+              "EndOffset": 223,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<CheckIsExistsMember>d__5": {
+        "System.Void LibraryManagement.Application.Services.MemberManagement/<CheckIsExistsMember>d__5::MoveNext()": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 164,
+              "EndOffset": 170,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<CreateMemberAsync>d__7": {
+        "System.Void LibraryManagement.Application.Services.MemberManagement/<CreateMemberAsync>d__7::MoveNext()": {
+          "Lines": {
+            "55": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "64": 0,
+            "65": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "75": 0,
+            "76": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "84": 0
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 83,
+              "EndOffset": 85,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 83,
+              "EndOffset": 102,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 234,
+              "EndOffset": 236,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 234,
+              "EndOffset": 253,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 416,
+              "EndOffset": 418,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 416,
+              "EndOffset": 433,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<DeleteMemberAsync>d__8": {
+        "System.Void LibraryManagement.Application.Services.MemberManagement/<DeleteMemberAsync>d__8::MoveNext()": {
+          "Lines": {
+            "87": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0,
+            "100": 0,
+            "101": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "109": 0
+          },
+          "Branches": [
+            {
+              "Line": 90,
+              "Offset": 160,
+              "EndOffset": 162,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 90,
+              "Offset": 160,
+              "EndOffset": 169,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 315,
+              "EndOffset": 317,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 315,
+              "EndOffset": 321,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<SearchForMemberById>d__9": {
+        "System.Void LibraryManagement.Application.Services.MemberManagement/<SearchForMemberById>d__9::MoveNext()": {
+          "Lines": {
+            "112": 0,
+            "114": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "129": 0,
+            "130": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "138": 0
+          },
+          "Branches": [
+            {
+              "Line": 116,
+              "Offset": 51,
+              "EndOffset": 53,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 116,
+              "Offset": 51,
+              "EndOffset": 65,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 123,
+              "Offset": 215,
+              "EndOffset": 217,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 123,
+              "Offset": 215,
+              "EndOffset": 226,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<SearchForMemberByName>d__10": {
+        "System.Void LibraryManagement.Application.Services.MemberManagement/<SearchForMemberByName>d__10::MoveNext()": {
+          "Lines": {
+            "141": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "158": 0,
+            "159": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "167": 0
+          },
+          "Branches": [
+            {
+              "Line": 144,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 144,
+              "Offset": 70,
+              "EndOffset": 84,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 150,
+              "Offset": 221,
+              "EndOffset": 223,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 150,
+              "Offset": 221,
+              "EndOffset": 239,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 150,
+              "Offset": 244,
+              "EndOffset": 246,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 150,
+              "Offset": 244,
+              "EndOffset": 258,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "LibraryManagement.Application.Services.MemberManagement/<UpdateMemberAsync>d__11": {
+        "System.Void LibraryManagement.Application.Services.MemberManagement/<UpdateMemberAsync>d__11::MoveNext()": {
+          "Lines": {
+            "170": 0,
+            "172": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "188": 0,
+            "189": 0,
+            "192": 0,
+            "193": 0,
+            "195": 0,
+            "197": 0,
+            "199": 0
+          },
+          "Branches": [
+            {
+              "Line": 175,
+              "Offset": 71,
+              "EndOffset": 73,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 175,
+              "Offset": 71,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 182,
+              "Offset": 235,
+              "EndOffset": 237,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 182,
+              "Offset": 235,
+              "EndOffset": 242,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Application\\Helper\\ClsValiationGuid.cs": {
+      "LibraryManagement.Application.Helper.ClsValiationGuid": {
+        "System.Boolean LibraryManagement.Application.Helper.ClsValiationGuid::CheckGuidStatus(System.Guid)": {
+          "Lines": {
+            "12": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0,
+            "20": 0
+          },
+          "Branches": [
+            {
+              "Line": 14,
+              "Offset": 14,
+              "EndOffset": 16,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 14,
+              "Offset": 14,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "LibraryManagement.Domain.dll": {
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Domain\\Domains\\Book.cs": {
+      "LibraryManagement.Domain.Domains.Book": {
+        "System.Guid LibraryManagement.Domain.Domains.Book::get_Id()": {
+          "Lines": {
+            "17": 14
+          },
+          "Branches": []
+        },
+        "System.Boolean LibraryManagement.Domain.Domains.Book::get_IsAvailable()": {
+          "Lines": {
+            "19": 18
+          },
+          "Branches": []
+        },
+        "System.String LibraryManagement.Domain.Domains.Book::get_Title()": {
+          "Lines": {
+            "22": 12
+          },
+          "Branches": []
+        },
+        "System.String LibraryManagement.Domain.Domains.Book::get_Description()": {
+          "Lines": {
+            "24": 11
+          },
+          "Branches": []
+        },
+        "System.String LibraryManagement.Domain.Domains.Book::get_Author()": {
+          "Lines": {
+            "25": 11
+          },
+          "Branches": []
+        },
+        "System.String LibraryManagement.Domain.Domains.Book::get_ISBN()": {
+          "Lines": {
+            "27": 11
+          },
+          "Branches": []
+        },
+        "System.Void LibraryManagement.Domain.Domains.Book::.ctor()": {
+          "Lines": {
+            "14": 30
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Domain\\Domains\\BorrowBook.cs": {
+      "LibraryManagement.Domain.Domains.BorrowBook": {
+        "System.Guid LibraryManagement.Domain.Domains.BorrowBook::get_Id()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Guid LibraryManagement.Domain.Domains.BorrowBook::get_BookId()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime LibraryManagement.Domain.Domains.BorrowBook::get_BorrowDate()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime LibraryManagement.Domain.Domains.BorrowBook::get_DueDate()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Guid LibraryManagement.Domain.Domains.BorrowBook::get_MemberId()": {
+          "Lines": {
+            "17": 1
+          },
+          "Branches": []
+        },
+        "LibraryManagement.Domain.Domains.Member LibraryManagement.Domain.Domains.BorrowBook::get_Member()": {
+          "Lines": {
+            "19": 1
+          },
+          "Branches": []
+        },
+        "LibraryManagement.Domain.Domains.Book LibraryManagement.Domain.Domains.BorrowBook::get_Book()": {
+          "Lines": {
+            "20": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Domain\\Domains\\Member.cs": {
+      "LibraryManagement.Domain.Domains.Member": {
+        "System.Guid LibraryManagement.Domain.Domains.Member::get_Id()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.String LibraryManagement.Domain.Domains.Member::get_FullName()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.String LibraryManagement.Domain.Domains.Member::get_Email()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void LibraryManagement.Domain.Domains.Member::.ctor()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "LibraryManagement.Infrastructure.dll": {
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Infrastructure\\DependenceyInjection.cs": {
+      "LibraryManagement.Infrastructure.DependenceyInjection": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection LibraryManagement.Infrastructure.DependenceyInjection::AddInfrstructure(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "14": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\new laptop\\source\\repos\\LibraryManagement\\LibraryManagement.Test.Unit\\LibraryManagement.Infrastructure\\Member\\MemberRepository.cs": {
+      "LibraryManagement.Infrastructure.MemberRepository": {
+        "System.Threading.Tasks.Task`1<System.Boolean> LibraryManagement.Infrastructure.MemberRepository::DeleteAsync(System.Guid)": {
+          "Lines": {
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Collections.Generic.ICollection`1<LibraryManagement.Domain.Domains.Member>> LibraryManagement.Infrastructure.MemberRepository::GetAllAsync()": {
+          "Lines": {
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<LibraryManagement.Domain.Domains.Member> LibraryManagement.Infrastructure.MemberRepository::GetByIdAsync(System.Guid)": {
+          "Lines": {
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> LibraryManagement.Infrastructure.MemberRepository::UpdateAsync(System.Guid,LibraryManagement.Domain.Domains.Member)": {
+          "Lines": {
+            "41": 0,
+            "42": 0
+          },
+          "Branches": []
+        },
+        "System.Void LibraryManagement.Infrastructure.MemberRepository::.ctor()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "LibraryManagement.Infrastructure.MemberRepository/<CreateAsync>d__1": {
+        "System.Void LibraryManagement.Infrastructure.MemberRepository/<CreateAsync>d__1::MoveNext()": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": [
+            {
+              "Line": 18,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 18,
+              "Offset": 19,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
